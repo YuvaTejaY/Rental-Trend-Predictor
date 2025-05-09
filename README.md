@@ -1,5 +1,13 @@
 *******************Rental Trend Predictor**************
+
+
+
+
 Description=================
+
+
+
+
 Use mock dataset of monthly rent prices for 5 cities and predict next month's average rent.
 
 Requirements==============
