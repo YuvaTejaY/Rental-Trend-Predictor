@@ -2,13 +2,20 @@
 Description=================
 Use mock dataset of monthly rent prices for 5 cities and predict next month's average rent.
 
-Requirements===============
+Requirements==============
+
+
+
 Use linear regression
 Data preprocessing
 Model evaluation metrics
 
 Bonus======================
 Visualize trends using matplotlib or seaborn
+
+
+
+
 
 Project Overview===========
 This project predicts the average monthly rent for five Indian cities — Chennai, Bangalore, Hyderabad, Coimbatore, and Trichy — using historical data from the past 12 months. It then forecasts rent for the 13th month using a simple Linear Regression model.
